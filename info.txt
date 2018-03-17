@@ -1,0 +1,14 @@
+TMSI: 
+IMSI: 
+
+for CID=46111, the frequency is 938.0MHz
+gr_gsm scanner for matching CID, LAC and whatnot -> dial *#*#4636#*#* and see in phone information on the phone
+find correct frequency (important!)
+capture and filter for gsm_a.dtap.protocol_discriminator == 5
+
+ARFCN: 1011, Freq:  932.4M, CID: 27663, LAC:   216, MCC: 204, MNC:   4, Pwr: -32
+ARFCN: 1018, Freq:  933.8M, CID:     0, LAC:     0, MCC:   0, MNC:   0, Pwr: -43
+ARFCN:    6, Freq:  936.2M, CID: 10838, LAC:  3150, MCC: 204, MNC:   8, Pwr: -42
+ARFCN:    8, Freq:  936.6M, CID: 46113, LAC:  3150, MCC: 204, MNC:   8, Pwr: -38
+ARFCN:    9, Freq:  936.8M, CID: 49169, LAC:  3150, MCC: 204, MNC:   8, Pwr: -49
+ARFCN:   15, Freq:  938.0M, CID: 46111, LAC:  3150, MCC: 204, MNC:   8, Pwr: -25
