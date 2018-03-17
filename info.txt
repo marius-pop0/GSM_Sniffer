@@ -1,5 +1,6 @@
 TMSI: 
-IMSI: 
+IMSI1: 204080513541388 (Lebara)
+IMSI2: 260011501300616 (Plus) 
 
 for CID=46111, the frequency is 938.0MHz
 gr_gsm scanner for matching CID, LAC and whatnot -> dial *#*#4636#*#* and see in phone information on the phone
